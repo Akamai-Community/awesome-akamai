@@ -11,7 +11,6 @@ Security
 - [Page Integrity Manager](https://www.akamai.com/products/page-integrity-manager): Defend your site from client-side threats. Spot and block malicious activity.
 - [Managed Security Service](https://www.akamai.com/products/managed-security-service): Security management, monitoring, and mitigation. One fully managed service.
 - [Zero Trust Security](https://www.akamai.com/solutions/security/remote-work-security): Secure remote access to corporate apps and the internet from anywhere. Reduce cyberthreats without hindering your workforce.
-- 
 
 DNS & CDN
 
