@@ -20,11 +20,12 @@ This is a curated list of all the cool things about Akamai products, tools, temp
 - [Akamai MFA](https://www.akamai.com/products/akamai-mfa): Prevent employee account takeovers and data breaches with phish-proof MFA.
 - [Account Protector](https://www.akamai.com/products/account-protector): Keep fraudsters out — and trust intact — with account takeover protection.
 - [Security & Personalization Services](https://www.akamai.com/products/security-and-personalization-services): Move beyond speed and reliability. Differentiate with security.
-- 
+- [DNS Infrastructure](https://www.akamai.com/products/dns-infrastructure): Reduce operational costs and improve subscriber experience with smart DNS.
 - [Managed Security Service](https://www.akamai.com/products/managed-security-service): Security management, monitoring, and mitigation. One fully managed service.
 - [Zero Trust Security](https://www.akamai.com/solutions/security/remote-work-security): Secure remote access to corporate apps and the internet from anywhere. Reduce cyberthreats without hindering your workforce.
+- [Secure Internet Access Services for ISPs](https://www.akamai.com/products/secure-internet-access-services-for-isps): Speed and reliability are table stakes — differentiate service offers with Secure Internet Access
 
-Delivery
+Delivery & CDN
 
 - [Image & Video Manager](https://www.akamai.com/products/image-and-video-manager): Automatically optimize and enhance visual media for every user, on any device.
 - [Adaptive Media Delivery](https://www.akamai.com/products/adaptive-media-delivery): Deliver consistent, high-quality online video securely at massive scale.
@@ -37,12 +38,31 @@ Delivery
 - [Global Traffic Management](https://www.akamai.com/products/global-traffic-management): Optimize app performance and avoid outages with intelligent load balancing.
 - [Ion](https://www.akamai.com/products/web-performance-optimization): Deliver fast, engaging, and reliable user experiences on your sites and apps.
 - [Media Analytics](https://www.akamai.com/products/media-analytics): Analyze video delivery performance, viewer engagement, and audience behavior.
+- [Media Services Live](https://www.akamai.com/products/media-services-live): Deliver a broadcast-quality experience to live-streaming viewers.
+- [mPulse](https://www.akamai.com/products/mpulse-real-user-monitoring): Capture user experience data. Optimize website performance. Measure ROI.
+- [NetStorage](https://www.akamai.com/products/netstorage): Store and protect content with the most globally distributed cloud storage.
+- [Adaptive Media Player](https://www.akamai.com/resources/product-brief/adaptive-media-player-product-brief): Simplify your media player deployment with a dedicated team of experts.
+- [API Gateway](https://www.akamai.com/site/en/documents/product-brief/akamai-api-gateway-product-brief.pdf): Scale access and simplify policy controls for APIs.
+- 
 
 Edge
 
 - [Cloudlets](https://www.akamai.com/products/cloudlets): Deliver better web experiences, made easy with robust, self-serviceable apps.
+  - [Application Load Balancer](https://www.akamai.com/site/en/documents/product-brief/application-load-balancer-cloudlet-product-brief.pdf): Achieve superior performance, availability, and scale with fast, reliable global server load balancing on the Akamai Intelligent Edge Platform.
+  - [Visitor Prioritization](https://www.akamai.com/site/en/documents/product-brief/visitor-prioritization-cloudlet-product-brief.pdf): Waiting room application to reduce abandonment and protect from site failure when your back-end application approaches overload.
+  - [Audience Segmentation](https://www.akamai.com/site/en/documents/product-brief/akamai-audience-segmentation-cloudlet-product-brief.pdf): Easily define audiences and quickly split visitor traffic for A/B and multivariate testing while taking advantage of the web performance and security of your Akamai CDN.
+  - [API Prioritization](https://www.akamai.com/site/en/documents/product-brief/api-prioritization-cloudlet-product-brief.pdf): Prioritize visitor-traffic segments to your API-driven native mobile or single-page application.
+  - [Input Validation](https://www.akamai.com/site/en/documents/product-brief/input-validation-cloudlet-product-brief.pdf): Strengthen your web forms against abuse or monopolization to protect your organization’s online inventory and resources from brute-force and behavioral attackers.
+  - [Request Control](https://www.akamai.com/site/en/documents/product-brief/akamai-request-control-cloudlet-product-brief.pdf): Provide conditional visitor access to your application or content based on match rules including IP address, geographic location, query string, URL path, cookie, or request header associated with the visitor’s request.
+  - [Edge Redirector](https://www.akamai.com/site/en/documents/product-brief/edge-redirector-cloudlet-product-brief.pdf): Offloads high volumes of URL redirects to the Akamai Intelligent Platform™.
+  - [Forward Rewrite](https://www.akamai.com/site/en/documents/product-brief/forward-rewrite-cloudlet-product-brief.pdf): Rewrite Clean or Semantic URLs at the Edge of the Akamai Intelligent PlatformTM.
+  - [Phased Release](https://www.akamai.com/site/en/documents/product-brief/akamai-phased-release-cloudlet-product-brief.pdf): Perform canary releases with built-in proactive failover to reduce risk during continuous
+software release activities.
 - [EdgeKV](https://www.akamai.com/products/edgekv): Supercharge your EdgeWorkers apps with a serverless key-value store.
 - [EdgeWorkers](https://www.akamai.com/products/serverless-computing-edgeworkers): Create functions at the edge on the largest distributed serverless network.
+<!-- - [Google Cloud Platform Interconnect] -->
+- [IoT Edge Connect](https://techdocs.akamai.com/iot-edge-connect/docs): IoT Edge Connect provides a real-time communication and data processing protocol to Akamai connected devices. It uses the message queuing telemetry transport (MQTT) and HTTP protocols to ingest messages and to process and deliver data back to devices in real time, on a publish-subscribe basis.
+- [Direct Connect](https://www.akamai.com/site/en/documents/product-brief/direct-connect-product-brief.pdf): Private connectivity for highly reliable, secure, and cost-effective first-mile transit into the Akamai platform
 
 ## Official Resources
 
