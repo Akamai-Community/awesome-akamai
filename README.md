@@ -74,9 +74,9 @@ software release activities.
 - [eBooks](https://www.akamai.com/resources/ebook)
 - [Customer Stories](https://www.akamai.com/resources/customer-story)
   
-[Akamai YouTube channel](https://www.youtube.com/akamai)
-[Akamai Developer YouTube channel](https://www.youtube.com/c/AkamaiDeveloper)
-[Akamai Developer](https://developer.akamai.com/)
+- [Akamai YouTube channel](https://www.youtube.com/akamai)
+- [Akamai Developer YouTube channel](https://www.youtube.com/c/AkamaiDeveloper)
+- [Akamai Developer](https://developer.akamai.com/)
 
 ## Official Projects
 
