@@ -25,7 +25,7 @@ This is a curated list of all the cool things about Akamai products, tools, temp
 - [Zero Trust Security](https://www.akamai.com/solutions/security/remote-work-security): Secure remote access to corporate apps and the internet from anywhere. Reduce cyberthreats without hindering your workforce.
 - [Secure Internet Access Services for ISPs](https://www.akamai.com/products/secure-internet-access-services-for-isps): Speed and reliability are table stakes — differentiate service offers with Secure Internet Access
 
-Delivery & CDN
+[Delivery & CDN](https://www.akamai.com/solutions/content-delivery-network)
 
 - [Image & Video Manager](https://www.akamai.com/products/image-and-video-manager): Automatically optimize and enhance visual media for every user, on any device.
 - [Adaptive Media Delivery](https://www.akamai.com/products/adaptive-media-delivery): Deliver consistent, high-quality online video securely at massive scale.
@@ -45,7 +45,7 @@ Delivery & CDN
 - [API Gateway](https://www.akamai.com/site/en/documents/product-brief/akamai-api-gateway-product-brief.pdf): Scale access and simplify policy controls for APIs.
 - 
 
-Edge
+[Edge](https://www.akamai.com/solutions/edge)
 
 - [Cloudlets](https://www.akamai.com/products/cloudlets): Deliver better web experiences, made easy with robust, self-serviceable apps.
   - [Application Load Balancer](https://www.akamai.com/site/en/documents/product-brief/application-load-balancer-cloudlet-product-brief.pdf): Achieve superior performance, availability, and scale with fast, reliable global server load balancing on the Akamai Intelligent Edge Platform.
@@ -77,3 +77,19 @@ software release activities.
 [Akamai YouTube channel](https://www.youtube.com/akamai)
 [Akamai Developer YouTube channel](https://www.youtube.com/c/AkamaiDeveloper)
 [Akamai Developer](https://developer.akamai.com/)
+
+## Official Projects
+
+- [Akamai Powershell](https://github.com/akamai/akamaipowershell): This module is designed to abstract the sometimes complex Akamai {OPEN} API commands, and their auth in particular.
+- [Akamai CLI For Jsonnet Config Management](https://github.com/akamai/cli-jsonnet):  Akamai CLI module for managing configurations as Jsonnet code. 
+
+## Community Projects
+
+- [Purge Surgeon](https://github.com/AvionosLLC/purge-surgeon): 3rd party open source connector for Adobe Experience Manager (AEM) CMS to purge Akamai cache when content is updated.
+- [Multiple CLI modules](https://github.com/apiheat): (search "akamai" under this user's GitHub repo) - 3rd party modules that integrate with the Akamai CLI for various purposes.  A few of these are forked from the official repos, but many are completely new modules that fill gaps where we don't have CLI modules
+- [EdgeWorkers + EdgeKV redirects](https://github.com/anne2gao/edgeworkers): An example of using Edgeworkers + EdgeKV JavaScripts used to an edgeworkers redirect rule.
+- [Optimizely integration with EdgeWorkers](https://github.com/simone-coelho/optimizely-edgeworker-akamai): Implementation of the Optimizely Fullstack Javascript SDK for Akamai EdgeWorkers.
+- QueueIt integration with EdgeWorkers: https://github.com/queueit/KnownUser.V3.Akamai
+- CrowdHandler Integration with EdgeWorkers: https://github.com/Crowdhandler/crowdhandler-akamai-integration (might be a bit touchy, given our partnership with Queue-It)
+- Adobe Target integration with EdgeWorkers: https://github.com/auahmed/target-edgeworker-akamai - Looks like this is an Adobe Engineer's personal GitHub, and maybe a work in progress.  I wasn't aware of this until today.
+- [OpenID Connect at the Akamai Edge](https://github.com/IanCassTwo/edgeworker-oidc): This EdgeWorker is designed to protect an Akamaized site using OpenID Connect (OIDC) in combination with Akamai Token Authentication.
