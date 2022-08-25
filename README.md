@@ -86,10 +86,10 @@ software release activities.
 ## Community Projects
 
 - [Purge Surgeon](https://github.com/AvionosLLC/purge-surgeon): 3rd party open source connector for Adobe Experience Manager (AEM) CMS to purge Akamai cache when content is updated.
-- [Multiple CLI modules](https://github.com/apiheat): (search "akamai" under this user's GitHub repo) - 3rd party modules that integrate with the Akamai CLI for various purposes.  A few of these are forked from the official repos, but many are completely new modules that fill gaps where we don't have CLI modules
+- [Multiple CLI modules](https://github.com/apiheat): (search "akamai" under this user's GitHub repo) 3rd party modules that integrate with the Akamai CLI for various purposes.  A few of these are forked from the official repos, but many are completely new modules that fill gaps where we don't have CLI modules
 - [EdgeWorkers + EdgeKV redirects](https://github.com/anne2gao/edgeworkers): An example of using Edgeworkers + EdgeKV JavaScripts used to an edgeworkers redirect rule.
 - [Optimizely integration with EdgeWorkers](https://github.com/simone-coelho/optimizely-edgeworker-akamai): Implementation of the Optimizely Fullstack Javascript SDK for Akamai EdgeWorkers.
-- QueueIt integration with EdgeWorkers: https://github.com/queueit/KnownUser.V3.Akamai
-- CrowdHandler Integration with EdgeWorkers: https://github.com/Crowdhandler/crowdhandler-akamai-integration (might be a bit touchy, given our partnership with Queue-It)
-- Adobe Target integration with EdgeWorkers: https://github.com/auahmed/target-edgeworker-akamai - Looks like this is an Adobe Engineer's personal GitHub, and maybe a work in progress.  I wasn't aware of this until today.
+- [KnownUser.V3.Akamai](https://github.com/queueit/KnownUser.V3.Akamai): This Akamai Queue-it Connector SDK (aka, Queue-it’s server-side KnownUser connector) uses Akamai Edge Workers to integrate Queue-it functionality into Akamai’s CDN network.
+- [Akamai CrowdHander Worker](https://github.com/Crowdhandler/crowdhandler-akamai-integration): Akamai EdgeWorker for CrowdHandler. 
+- [Adobe Target Akamai Edge Worker](https://github.com/auahmed/target-edgeworker-akamai): This is an implementation of the Adobe Target API for Akamai EdgeWorkers.
 - [OpenID Connect at the Akamai Edge](https://github.com/IanCassTwo/edgeworker-oidc): This EdgeWorker is designed to protect an Akamaized site using OpenID Connect (OIDC) in combination with Akamai Token Authentication.
