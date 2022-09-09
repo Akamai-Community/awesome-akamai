@@ -95,3 +95,21 @@ software release activities.
 - [OpenID Connect at the Akamai Edge](https://github.com/IanCassTwo/edgeworker-oidc): This EdgeWorker is designed to protect an Akamaized site using OpenID Connect (OIDC) in combination with Akamai Token Authentication.
 - [axozoid/akamai2aws](https://github.com/axozoid/akamai2aws): This script performs syncing Akamai's IP ranges for SiteShield and AWS security groups.
 - [SSSG Ninja](https://github.com/jc1518/SSSG-Ninja): All-in-one tool for site shield security group management 
+- [Comcast/go-edgegrid](https://github.com/Comcast/go-edgegrid): A Golang Akamai API client and Akamai OPEN EdgeGrid Authentication scheme authentication handler.
+- [dpetzel/python-ccuapi](https://github.com/dpetzel/python-ccuapi): Python wrapper around Akamai ccuapi including a command line utility
+- [Akamai NetStorage HTTP API for PHP-PEAR](https://github.com/raben/Akamai): It is implemented in accordance with the document the following specifications: https://control.akamai.com/dl/customers/NS/NetStrgHttpCM.pdf April 8, 2013
+- [realestate-com-au/akamai-rspec](https://github.com/realestate-com-au/akamai-rspec): Use rspec to write tests for your akamai configuration.
+- [jayzes/akamai](https://github.com/jayzes/akamai): Very simple utility library for scripting Akamai NetStorage FTP and WAA purge operations.
+- [OXDBXKXO/akamai-toolkit](https://github.com/OXDBXKXO/akamai-toolkit): A set of tools to work on Akamai v1 anti-bot solution. Current supported version: 1.70
+-[preflightsiren/chrome-akamai-debug](https://github.com/preflightsiren/chrome-akamai-debug): A Chrome extension to add Akamai debug headers into requests
+- [bretts/piez](https://github.com/bretts/piez): View image byte savings using Akamai Image Manager.
+- [release-engineering/python-fastpurge](https://github.com/release-engineering/python-fastpurge): Python client for Akamai Fast Purge API.
+- [Comcast/akamai-gtm](https://github.com/Comcast/akamai-gtm): A Golang-based CLI for Akamai GTM.
+- [wyvern8/akamai-nginx](https://github.com/wyvern8/akamai-nginx): Configure an nginx reverse proxy/simulator based on Akamai property rules.
+
+## Community Content
+- [An Introduction to the Akamai Content Delivery Network](https://www.freecodecamp.org/news/an-introduction-to-the-akamai-content-delivery-network-806aa16d8781/) by Dominic Fraser
+- [How to set up Oncrawl log monitoring with Akamai](https://help.oncrawl.com/en/articles/5806798-how-to-set-up-oncrawl-log-monitoring-with-akamai) by Rebecca Berbel
+- [How to setup an Akamai NetStorage Input with Bitmovin](https://bitmovin.com/docs/encoding/tutorials/how-to-setup-an-akamai-netstorage-input)
+- [Quick Tip: How to Utilize Akamai CDN with Your WordPress Site](https://code.tutsplus.com/articles/quick-tip-how-to-utilize-akamai-cdn-with-your-wordpress-site--wp-23403) by Ariff Shah
+- [How to Monitor Akamai Logs](https://www.sumologic.com/blog/how-to-monitor-akamai-logs/) by Mike Mackrory
