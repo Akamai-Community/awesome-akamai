@@ -93,3 +93,5 @@ software release activities.
 - [Akamai CrowdHander Worker](https://github.com/Crowdhandler/crowdhandler-akamai-integration): Akamai EdgeWorker for CrowdHandler. 
 - [Adobe Target Akamai Edge Worker](https://github.com/auahmed/target-edgeworker-akamai): This is an implementation of the Adobe Target API for Akamai EdgeWorkers.
 - [OpenID Connect at the Akamai Edge](https://github.com/IanCassTwo/edgeworker-oidc): This EdgeWorker is designed to protect an Akamaized site using OpenID Connect (OIDC) in combination with Akamai Token Authentication.
+- [axozoid/akamai2aws](https://github.com/axozoid/akamai2aws): This script performs syncing Akamai's IP ranges for SiteShield and AWS security groups.
+- [SSSG Ninja](https://github.com/jc1518/SSSG-Ninja): All-in-one tool for site shield security group management 
