@@ -114,3 +114,4 @@ software release activities.
 - [Quick Tip: How to Utilize Akamai CDN with Your WordPress Site](https://code.tutsplus.com/articles/quick-tip-how-to-utilize-akamai-cdn-with-your-wordpress-site--wp-23403) by Ariff Shah
 - [How to Monitor Akamai Logs](https://www.sumologic.com/blog/how-to-monitor-akamai-logs/) by Mike Mackrory
 - [AEM Akamai Cache flush Agent](https://aem.design/blog/2021/04/25/creating-akamai-flush-agent)
+- [Setting up External-DNS for Services on Akamai Edge DNS](https://github.com/kubernetes-sigs/external-dns/blob/master/docs/tutorials/akamai-edgedns.md)
