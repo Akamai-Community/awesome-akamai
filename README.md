@@ -115,3 +115,4 @@ software release activities.
 - [How to Monitor Akamai Logs](https://www.sumologic.com/blog/how-to-monitor-akamai-logs/) by Mike Mackrory
 - [AEM Akamai Cache flush Agent](https://aem.design/blog/2021/04/25/creating-akamai-flush-agent)
 - [Setting up External-DNS for Services on Akamai Edge DNS](https://github.com/kubernetes-sigs/external-dns/blob/master/docs/tutorials/akamai-edgedns.md)
+- [Visualizing Akamai DataStream 2 logs with Elasticsearch and Kibana on Linode ](https://dev.to/hokamoto/visualizing-akamai-datastream-2-logs-with-elasticsearch-and-kibana-2c94)
