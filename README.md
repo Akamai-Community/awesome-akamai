@@ -2,9 +2,20 @@
 
 This is a curated list of all the cool things about Akamai products, tools, template, and resources.
 
+Table of Contents:
+
+- [Official Products](#official-products)
+  - [Security](#security)
+  - [Delivery & CDN](#delivery--cdn)
+  - [Edge](#edge)
+- [Official Resources](#official-resources)
+- [Official Projects](#official-projects)
+- [Community Projects](#community-projects)
+- [Community Content](#community-content)
+
 ## Official Products
 
-[Security](https://www.akamai.com/solutions/security)
+#### [Security](https://www.akamai.com/solutions/security)
 
 - [Akamai Guardicore Segmentation](https://www.akamai.com/products/akamai-segmentation): The fastest way to visualize and segment your assets in the data center, cloud, or hybrid cloud infrastructure.
 - [App & API Protector](https://www.akamai.com/products/app-and-api-protector): One-stop, zero-compromise security for websites, applications, and APIs.
@@ -25,7 +36,7 @@ This is a curated list of all the cool things about Akamai products, tools, temp
 - [Zero Trust Security](https://www.akamai.com/solutions/security/remote-work-security): Secure remote access to corporate apps and the internet from anywhere. Reduce cyberthreats without hindering your workforce.
 - [Secure Internet Access Services for ISPs](https://www.akamai.com/products/secure-internet-access-services-for-isps): Speed and reliability are table stakes — differentiate service offers with Secure Internet Access
 
-[Delivery & CDN](https://www.akamai.com/solutions/content-delivery-network)
+#### [Delivery & CDN](https://www.akamai.com/solutions/content-delivery-network)
 
 - [Image & Video Manager](https://www.akamai.com/products/image-and-video-manager): Automatically optimize and enhance visual media for every user, on any device.
 - [Adaptive Media Delivery](https://www.akamai.com/products/adaptive-media-delivery): Deliver consistent, high-quality online video securely at massive scale.
@@ -45,7 +56,7 @@ This is a curated list of all the cool things about Akamai products, tools, temp
 - [API Gateway](https://www.akamai.com/site/en/documents/product-brief/akamai-api-gateway-product-brief.pdf): Scale access and simplify policy controls for APIs.
 - 
 
-[Edge](https://www.akamai.com/solutions/edge)
+#### [Edge](https://www.akamai.com/solutions/edge)
 
 - [Cloudlets](https://www.akamai.com/products/cloudlets): Deliver better web experiences, made easy with robust, self-serviceable apps.
   - [Application Load Balancer](https://www.akamai.com/site/en/documents/product-brief/application-load-balancer-cloudlet-product-brief.pdf): Achieve superior performance, availability, and scale with fast, reliable global server load balancing on the Akamai Intelligent Edge Platform.
