@@ -117,7 +117,8 @@ software release activities.
 - [release-engineering/python-fastpurge](https://github.com/release-engineering/python-fastpurge): Python client for Akamai Fast Purge API.
 - [Comcast/akamai-gtm](https://github.com/Comcast/akamai-gtm): A Golang-based CLI for Akamai GTM.
 - [wyvern8/akamai-nginx](https://github.com/wyvern8/akamai-nginx): Configure an nginx reverse proxy/simulator based on Akamai property rules.
-- [ccloes/neo4j-akamai](https://github.com/ccloes/neo4j-akamai): This repo contains the scripts necessary to ingest Akamai property and redirect configs and ingest them into Neo4j. It is a starting point to help visualize your external attack surface within Akamai. 
+- [ccloes/neo4j-akamai](https://github.com/ccloes/neo4j-akamai): This repo contains the scripts necessary to ingest Akamai property and redirect configs and ingest them into Neo4j. It is a starting point to help visualize your external attack surface within Akamai.
+- [Akamai Fast Purge for Cache Tags](https://github.com/zesty-io/akamai-tag-purge):  Fast Purge Cloud Function for GCP to purge specific akamai cache by "cache-tags" 
 
 ## Community Content
 - [An Introduction to the Akamai Content Delivery Network](https://www.freecodecamp.org/news/an-introduction-to-the-akamai-content-delivery-network-806aa16d8781/) by Dominic Fraser
@@ -129,3 +130,4 @@ software release activities.
 - [Setting up External-DNS for Services on Akamai Edge DNS](https://github.com/kubernetes-sigs/external-dns/blob/master/docs/tutorials/akamai-edgedns.md)
 - [Visualizing Akamai DataStream 2 logs with Elasticsearch and Kibana on Linode ](https://dev.to/hokamoto/visualizing-akamai-datastream-2-logs-with-elasticsearch-and-kibana-2c94)
 - [Neo4j + Akamai - Mapping your External attack surface](https://www.linkedin.com/pulse/neo4j-akamai-mapping-your-external-attack-surface-chad-cloes/?published=t&trackingId=ucgj3ZLISy6RW78UL0iYxQ%3D%3D)
+- [Zesty.io Private Cloud with Akamai](https://www.zesty.io/mindshare/zesty-io-private-cloud-with-akamai/)
