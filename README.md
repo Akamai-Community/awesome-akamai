@@ -118,7 +118,9 @@ software release activities.
 - [Comcast/akamai-gtm](https://github.com/Comcast/akamai-gtm): A Golang-based CLI for Akamai GTM.
 - [wyvern8/akamai-nginx](https://github.com/wyvern8/akamai-nginx): Configure an nginx reverse proxy/simulator based on Akamai property rules.
 - [ccloes/neo4j-akamai](https://github.com/ccloes/neo4j-akamai): This repo contains the scripts necessary to ingest Akamai property and redirect configs and ingest them into Neo4j. It is a starting point to help visualize your external attack surface within Akamai.
-- [Akamai Fast Purge for Cache Tags](https://github.com/zesty-io/akamai-tag-purge):  Fast Purge Cloud Function for GCP to purge specific akamai cache by "cache-tags" 
+- [Akamai Fast Purge for Cache Tags](https://github.com/zesty-io/akamai-tag-purge):  Fast Purge Cloud Function for GCP to purge specific akamai cache by "cache-tags"
+- [Optimizely Akamai Edgeworkers Starter Kit](https://github.com/optimizely/akamai-edgeworker-starter-kit/tree/main): This repository houses the Akamai Edgeworkers Starter Kit which provides a quickstart for users who would like to use Optimizely Feature Experimentation and Optimizely Full Stack (legacy) with Akamai Edgeworkers.
+- [Optimizely Akamai Edge Worker](https://github.com/simone-coelho/optimizely-edgeworker-akamai): This is an implementation of the Optimizely Fullstack Javascript SDK for Akamai EdgeWorkers
 
 ## Community Content
 - [An Introduction to the Akamai Content Delivery Network](https://www.freecodecamp.org/news/an-introduction-to-the-akamai-content-delivery-network-806aa16d8781/) by Dominic Fraser
