@@ -54,7 +54,6 @@ Table of Contents:
 - [NetStorage](https://www.akamai.com/products/netstorage): Store and protect content with the most globally distributed cloud storage.
 - [Adaptive Media Player](https://www.akamai.com/resources/product-brief/adaptive-media-player-product-brief): Simplify your media player deployment with a dedicated team of experts.
 - [API Gateway](https://www.akamai.com/site/en/documents/product-brief/akamai-api-gateway-product-brief.pdf): Scale access and simplify policy controls for APIs.
-- 
 
 #### [Edge](https://www.akamai.com/solutions/edge)
 
