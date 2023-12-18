@@ -8,6 +8,9 @@ Table of Contents:
   - [Security](#security)
   - [Delivery & CDN](#delivery--cdn)
   - [Edge](#edge)
+  - [Cloud Compute](#cloud-compute)
+  - [Cloud Storage](#cloud-storage)
+  - [Cloud Databases](#cloud-databases)
 - [Official Resources](#official-resources)
 - [Official Projects](#official-projects)
 - [Community Projects](#community-projects)
@@ -73,6 +76,24 @@ software release activities.
 <!-- - [Google Cloud Platform Interconnect] -->
 - [IoT Edge Connect](https://techdocs.akamai.com/iot-edge-connect/docs): IoT Edge Connect provides a real-time communication and data processing protocol to Akamai connected devices. It uses the message queuing telemetry transport (MQTT) and HTTP protocols to ingest messages and to process and deliver data back to devices in real time, on a publish-subscribe basis.
 - [Direct Connect](https://www.akamai.com/site/en/documents/product-brief/direct-connect-product-brief.pdf): Private connectivity for highly reliable, secure, and cost-effective first-mile transit into the Akamai platform
+
+#### Cloud Compute
+
+- [Shared](https://www.linode.com/products/shared/): Affordable Shared CPU plans are ideal for general workloads and include generous amounts of free bundled transfer.
+- [Dedicated CPU](https://www.linode.com/products/dedicated-cpu/): Dedicated CPU instances run on their own CPU cores. No sharing the processor with other instances.
+- [High Memory](https://www.linode.com/products/high-memory/): High Memory instances offer a cost-effective way to run memory-intensive applications on dedicated CPUs. Perfect for when you need more RAM without increasing storage or vCPUs.
+- [Premium CPU]([https](https://www.linode.com/products/premium-cpu/)): Premium CPUs provide a minimum hardware model for consistent performance on dedicated resources.
+- [GPU](https): On-demand GPUs for parallel processing workloads such as machine learning, scientific computing, and video processing.
+- [Kubernetes]([https](https://www.linode.com/products/kubernetes/)): Deploy Kubernetes clusters with our fully-managed container orchestration engine.
+
+#### Cloud Storage
+- [Block Storage](https://www.linode.com/products/block-storage/): Easily add highly-available and scalable storage capacity to your instance.
+- [Object Storage](https://www.linode.com/products/object-storage/): Use Object Storage to store your data across a cluster of servers for high availability and durability.
+- [Backups](https://www.linode.com/products/backups/): Rest easy while knowing that your data is safe and secure with a simple scalable backup service. The subscription service automatically performs daily, weekly, and biweekly local backups of your cloud instances.
+
+#### Cloud Databases
+- [Postgres](https://www.linode.com/marketplace/apps/linode/postgresql/): Powerful and flexible open source relational database management system. Get access to a community-backed database through the PostgreSQL One-Click App.
+- [MySQL/MariaDB](https://www.linode.com/marketplace/apps/linode/mysql-mariadb/): World’s most popular open source database.
 
 ## Official Resources
 
